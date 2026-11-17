@@ -16,6 +16,12 @@ Każda instrukcja tłumaczy zasady krok po kroku (z animacjami) i pokazuje **pe�
 
 ## 🚀 Jak uruchomić
 
+### Online
+
+Otwórz stronę **https://pmoszczy1989-bot.github.io/Instrukcje_Gry_Planszowe/** (GitHub Pages). Linki do konkretnych gier: [Level 8](https://pmoszczy1989-bot.github.io/Instrukcje_Gry_Planszowe/#level8) · [Sabotażysta](https://pmoszczy1989-bot.github.io/Instrukcje_Gry_Planszowe/#sabotazysta) · [Kroniki Zamku Avel](https://pmoszczy1989-bot.github.io/Instrukcje_Gry_Planszowe/#avel).
+
+### Lokalnie
+
 1. Pobierz plik [`instrukcje_gier.html`](instrukcje_gier.html) (lub sklonuj repozytorium).
 2. Otwórz go w przeglądarce (Edge, Chrome, Firefox).
 3. Z listy **„Gra:”** na górze strony wybierz grę.
@@ -71,6 +77,7 @@ start .\Instrukcje_Gry_Planszowe\instrukcje_gier.html
 ```text
 Instrukcje_Gry_Planszowe/
 ├── instrukcje_gier.html      ← cała aplikacja (jedyny potrzebny plik)
+├── index.html                ← przekierowanie dla GitHub Pages
 ├── README.md
 ├── docs/                     ← dokumentacja i zrzuty ekranu
 │   ├── obsluga.md
