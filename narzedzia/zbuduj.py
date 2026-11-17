@@ -18,6 +18,8 @@ NAMES = {
     "level8": "level8_instrukcja.html",
     "sabotazysta": "sabotazysta_instrukcja.html",
     "avel": "kroniki_zamku_avel_instrukcja.html",
+    "ttr": "wsiasc_do_pociagu_europa_instrukcja.html",
+    "munchkin": "munchkin_instrukcja.html",
 }
 
 

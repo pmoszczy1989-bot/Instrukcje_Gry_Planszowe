@@ -51,6 +51,10 @@ Nad planszą wyświetla się **komentarz** do bieżącego kroku: kto gra i co ro
 | Level 8 | 2–6 | 4 graczy | 2, 3, 5, 6 |
 | Sabotażysta | 3–10 | 4 graczy | 3, 5–10 |
 | Kroniki Zamku Avel | 1–4 | 4 graczy | 1 (solo), 2, 3 |
+| Wsiąść do Pociągu: Europa | 2–5 | – | 2–5 |
+| Munchkin + dodatki | 3–6 | – | 3–6 (osobno dla każdej kombinacji dodatków) |
+
+W Munchkinie nad symulacją są dodatkowo **przełączniki dodatków** oraz skróty „wszystkie” i „tylko podstawka”. Zmiana wyboru przelicza partię.
 
 Partia ręczna ma dokładniejsze komentarze. Partie generowane są zawsze takie same (powtarzalne), bo opierają się na stałym ziarnie losowania (patrz [Budowa techniczna](budowa-techniczna.md)).
 

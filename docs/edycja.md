@@ -14,6 +14,8 @@ python narzedzia/rozpakuj.py
 #    zrodla/level8_instrukcja.html
 #    zrodla/sabotazysta_instrukcja.html
 #    zrodla/kroniki_zamku_avel_instrukcja.html
+#    zrodla/wsiasc_do_pociagu_europa_instrukcja.html
+#    zrodla/munchkin_instrukcja.html
 #    (każdy można otworzyć bezpośrednio w przeglądarce)
 
 # 3. Wstaw zmiany z powrotem do instrukcje_gier.html
